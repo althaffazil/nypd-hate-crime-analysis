@@ -1,1 +1,1 @@
-# nypd-hate-crime-analysis
+# nyc-hate-crime-analysis
